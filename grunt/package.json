@@ -1,0 +1,14 @@
+{
+  "name": "Maryna_Kushneruk",
+  "description": "this is final exam",
+  "version": "1.1.1",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-sass": "^1.2.1",
+    "sass": "^0.5.0"
+  },
+  "main": "script/main.js"
+}
